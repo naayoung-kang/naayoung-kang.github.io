@@ -51,8 +51,8 @@ Quisque egestas convallis ipsum, ut sollicitudin risus tincidunt a. Maecenas int
 
 - [ ] Job
   + [x] Step 1
-  + [x] Step 2
-  + [ ] Step 3
+  + [ ] Step 2
+  + [x] Step 3
 
 ### Description list
 
