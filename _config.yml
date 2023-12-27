@@ -17,9 +17,9 @@ timezone: Asia/Seoul
 # ↓ --------------------------
 
 
-title: 블로그 타이틀
+title: CodeCanvas
 
-tagline: 서브타이틀
+tagline: Creating a Blog with Code
 
 description: >- # used by seo meta and the atom feed
   focuschange, chirpy test
